@@ -26,6 +26,9 @@ Inheritance (Pewarisan): Class Router dan Kabel diturunkan (extends) dari abstra
 Overriding: Method tampilkanInfo() pada Router dan Kabel di-override dari induknya untuk menambahkan pencetakan data spesifik yang hanya dimiliki alat tersebut (mencetak tipe pada Router, dan mencetak ukuran panjang pada Kabel).
 
 <img width="1648" height="1242" alt="p5-inter" src="https://github.com/user-attachments/assets/a7a3a56b-be5d-405b-ad3a-7cd407e842fd" />
+
+<img width="1680" height="1052" alt="p5-inter2" src="https://github.com/user-attachments/assets/0781919f-d92b-4af2-a388-f4ac7638d7d8" />
+
 Interface (Kontrak): Digunakan antarmuka BisaDipinjam (Hubungan Can-do) agar kita memiliki jaminan bahwa setiap objek yang masuk ke keranjang peminjaman pasti memiliki fungsi pinjamAlat().
 
 <img width="1664" height="1242" alt="p5-compos" src="https://github.com/user-attachments/assets/76e414b8-17c2-427c-9964-9407efe53cc8" />
