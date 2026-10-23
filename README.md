@@ -33,3 +33,5 @@ Interface (Kontrak): Digunakan antarmuka BisaDipinjam (Hubungan Can-do) agar kit
 
 <img width="1664" height="1242" alt="p5-compos" src="https://github.com/user-attachments/assets/76e414b8-17c2-427c-9964-9407efe53cc8" />
 Composition: Class Peminjaman memiliki hubungan Composition (Has-a) dengan alat-alat lab, di mana class transaksi ini menampung sebuah alat (atau sekumpulan alat) untuk diproses. Class Peminjaman bisa menangani transaksi tanpa memedulikan apakah itu Router atau Kabel.
+<img width="1494" height="1242" alt="p5-hasil" src="https://github.com/user-attachments/assets/a619e06b-30e1-43d8-86da-e9fc37c748ba" />
+<img width="475" height="533" alt="hasil" src="https://github.com/user-attachments/assets/190f76a8-e32d-445c-94b6-85e5ead791e3" />
